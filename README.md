@@ -838,3 +838,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-58 -->
 - #58: #8 — Missing Lower Bound Validation on Withdrawal Amount in withdraw_fees
+
+<!-- handsoff-issue-59 -->
+- #59: #9 — Self-Failover Configuration and Untrapped Cross-Contract Invocation in query_risk_gate_with_confidence
