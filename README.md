@@ -832,3 +832,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-56 -->
 - #56: #6 — Risk Gate Fee Accumulation Counter Key Is Dead Unwired Code
+
+<!-- handsoff-issue-57 -->
+- #57: #7 — Permissive Negative Fee Amount in set_gate_query_fee Due to Missing Lower Bound Check
