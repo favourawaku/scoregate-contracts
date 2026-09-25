@@ -835,3 +835,6 @@ Contributions are welcome. ScoreGate is an open-source public good built for the
 
 <!-- handsoff-issue-57 -->
 - #57: #7 — Permissive Negative Fee Amount in set_gate_query_fee Due to Missing Lower Bound Check
+
+<!-- handsoff-issue-58 -->
+- #58: #8 — Missing Lower Bound Validation on Withdrawal Amount in withdraw_fees
